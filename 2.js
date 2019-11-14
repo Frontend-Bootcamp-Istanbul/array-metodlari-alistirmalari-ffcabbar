@@ -4,4 +4,4 @@ let triples = numbers.map((i) =>  {
     return i * 3;
 });
 
-console.log(triples);
+// console.log(triples);

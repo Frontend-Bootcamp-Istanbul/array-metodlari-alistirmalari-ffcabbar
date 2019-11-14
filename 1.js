@@ -5,4 +5,4 @@ items.forEach((item) => {
     copy.push(item);
 });
 
-console.log(copy);
+// console.log(copy);

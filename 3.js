@@ -4,4 +4,4 @@ let newArray = numbers.filter((i) => {
     return i < 15;
 });
 
-console.log(newArray);
+// console.log(newArray);
